@@ -1,6 +1,7 @@
 
 import { loginPage } from '/home/bogdan/cypress/zavrsniZadatak/cypress/integration/page_object/login.page.js';
 import { LOGIN } from '../../fixtures/register-login.constants';
+const alert = '.alert-danger'
 
 
 describe("Testing login", function() {

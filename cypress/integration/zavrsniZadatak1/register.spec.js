@@ -1,6 +1,6 @@
 import { registerPage } from '/home/bogdan/cypress/zavrsniZadatak/cypress/integration/page_object/register.page.js';
 import { REGISTRACIJA } from '../../fixtures/register-login.constants';
-//const alert = '.alert-danger'
+const alert = '.alert-danger'
 //import { randomEmail } from 'home/bogdan/cypress/zavrsniZadatak/cypress/utiils/index'
 
 
